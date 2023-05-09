@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="https://github.com/anilembel/TripAdvisor_Restaurants_31Cities/blob/main/Assests/BeCode_color_1.png" alt="Logo""></a></p>
-<h3 align="center">Trip Advisor Analyses <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
+<h3 align="center">Trip Advisor Europe Restaurants Analyses <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
   <br>
   By Anıl EMBEL
   <br>
@@ -64,15 +64,24 @@ Also , I created a dictionary to hold the all cuisine types. I used it to fill s
 
 I Replaced price range with a string values.
 {"$": 'Cheap', "$$ - $$$": 'Avarage', "$$$$": 'Expensive'}
+                                            
+ In the last part I created a new CSV files for my visualizations on Tableau.                                            
+                                            
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align="center"> Visualizations  </h3>  
 
-Link Of the Dashboard : https://public.tableau.com/app/profile/an.l.embel/viz/TripAdvisor_16832082800310/TripAdvisorEuropeRestraunts
+Link Of the Dashboard : https://public.tableau.com/shared/99FDH7FT6?:display_count=n&:origin=viz_share_link
 <p>
-    You can easily visualize this information at a glance on the dashboard. I hope you find this study useful. If you have any questions, please don't hesitate to contact me. You can find my LinkedIn and GitHub profiles on the left or scan the QR code on the dashboard to navigate directly to my LinkedIn profile.
+    By using Tableau public in my visualizations, I prepared an analysis consisting of many sheets, 4 dashboards and 1 story + a visualization that gives the best advice in 3 different classifications for each city. Thanks to the dynamism of the dashboards, you can find answers to many questions.
+                  
+                  For example :
+
+- What are the percentiles of cheap places in Brussels in general cuisine types?
+- If I want to go to an expensive restaurant in Vienna, which is the best?
+-You can find answers to many questions such as the most popular kitchen types in Europe, the city with the most points, etc.
 </p>
 
 

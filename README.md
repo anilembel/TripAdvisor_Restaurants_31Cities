@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="https://github.com/anilembel/TripAdvisor_Restaurants_31Cities/blob/main/Assests/BeCode_color_1.png" alt="Logo""></a></p>
-<h3 align="center">Trip Advisor Europe Restaurants Analyses <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
+<h3 align="center"> Trip Advisor Europe Restaurants Analysis Project at  <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
   <br>
   By Anıl EMBEL
   <br>

@@ -73,7 +73,7 @@ I Replaced price range with a string values.
 
 <h3 align="center"> Visualizations  </h3>  
 
-Link Of the Dashboard : https://public.tableau.com/shared/99FDH7FT6?:display_count=n&:origin=viz_share_link
+Link Of the Dashboard : https://public.tableau.com/views/TripAdvisor_16832082800310/Distrubition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 <p>
     By using Tableau public in my visualizations, I prepared an analysis consisting of many sheets, 4 dashboards and 1 story + a visualization that gives the best advice in 3 different classifications for each city. Thanks to the dynamism of the dashboards, you can find answers to many questions.
                   
